@@ -1,0 +1,3 @@
+In the fourth lesson of the Git and GitHub program by Pathy, 
+I learned how to document and save changes as permanent project versions using Commit. 
+I also practiced linking my local repository and successfully uploading the code to GitHub via Push to ensure work is saved and shared
